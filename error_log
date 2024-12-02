@@ -1,0 +1,368 @@
+[13-Nov-2024 11:21:07 UTC] PHP Warning:  Undefined array key "innerBlocks" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer/main/shortcode_functions.php on line 40
+[13-Nov-2024 11:21:07 UTC] PHP Warning:  Undefined array key "innerContent" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer/main/shortcode_functions.php on line 41
+[13-Nov-2024 11:27:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 11:27:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 11:27:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 11:28:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 11:32:00 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 11:57:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 11:57:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 12:18:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 12:29:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:02:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:03:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:26:19 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:26:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:26:26 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:37:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:47:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:48:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:48:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:48:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:48:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:48:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:49:01 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:49:18 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:49:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:49:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:49:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:49:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-blog-header.php(13): require_once('/home/evsaewdi/...')
+#8 /home/evsaewdi/public_html/index.php(17): require('/home/evsaewdi/...')
+#9 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 13:50:44 UTC] Cron reschedule event error for hook: litespeed_task_lqip, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[13-Nov-2024 13:50:44 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[13-Nov-2024 13:54:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "PAGELAYER_API" in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php:100
+Stack trace:
+#0 /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/pagelayer-init.php(47): pagelayer_pro_load_license()
+#1 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(324): pagelayer_pro_load_plugin()
+#2 /home/evsaewdi/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /home/evsaewdi/public_html/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /home/evsaewdi/public_html/wp-settings.php(555): do_action()
+#5 /home/evsaewdi/public_html/wp-config.php(97): require_once('/home/evsaewdi/...')
+#6 /home/evsaewdi/public_html/wp-load.php(50): require_once('/home/evsaewdi/...')
+#7 /home/evsaewdi/public_html/wp-cron.php(46): require_once('/home/evsaewdi/...')
+#8 {main}
+  thrown in /home/evsaewdi/public_html/wp-content/plugins/pagelayer-pro/main/functions.php on line 100
+[13-Nov-2024 14:02:15 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}
